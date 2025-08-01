@@ -59,7 +59,6 @@ python main.py
 Name, Time
 Tony, 10-12-01
 Steve, 10-14-35
-
 ```
 
 ---
